@@ -1,0 +1,5 @@
+﻿  백준1912.c
+  백준1912.vcxproj -> C:\Users\user\Desktop\문해기복습\Week4\Debug\백준1912.exe
+C:\Users\user\Desktop\문해기복습\Week4\백준1912\백준1912.c(52): warning C6031: 반환 값이 무시되었습니다. 'scanf'.
+C:\Users\user\Desktop\문해기복습\Week4\백준1912\백준1912.c(55): warning C6031: 반환 값이 무시되었습니다. 'scanf'.
+C:\Users\user\Desktop\문해기복습\Week4\백준1912\백준1912.c(55): warning C6011: NULL 포인터 'm'을(를) 역참조하고 있습니다. 

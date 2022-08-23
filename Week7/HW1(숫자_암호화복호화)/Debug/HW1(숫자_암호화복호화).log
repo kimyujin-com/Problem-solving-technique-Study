@@ -1,0 +1,5 @@
+﻿  HW1(숫자_암호화복호화).c
+C:\Users\user\Desktop\문해기복습\Week7\HW1(숫자_암호화복호화)\HW1(숫자_암호화복호화).c(18,16): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\user\Desktop\문해기복습\Week7\HW1(숫자_암호화복호화)\HW1(숫자_암호화복호화).c(26,16): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\user\Desktop\문해기복습\Week7\HW1(숫자_암호화복호화)\HW1(숫자_암호화복호화).c(37,16): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  HW1(숫자_암호화복호화).vcxproj -> C:\Users\user\Desktop\문해기복습\Week7\Debug\HW1(숫자_암호화복호화).exe

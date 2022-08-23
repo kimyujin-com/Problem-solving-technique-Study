@@ -1,0 +1,5 @@
+﻿  LAB(selection).c
+  LAB(selection).vcxproj -> C:\Users\user\Desktop\문해기복습\Week4\Debug\LAB(selection).exe
+C:\Users\user\Desktop\문해기복습\Week4\LAB(selection)\LAB(selection).c(32): warning C6031: 반환 값이 무시되었습니다. 'scanf'.
+C:\Users\user\Desktop\문해기복습\Week4\LAB(selection)\LAB(selection).c(36): warning C6031: 반환 값이 무시되었습니다. 'scanf'.
+C:\Users\user\Desktop\문해기복습\Week4\LAB(selection)\LAB(selection).c(36): warning C6011: NULL 포인터 'box'을(를) 역참조하고 있습니다. 

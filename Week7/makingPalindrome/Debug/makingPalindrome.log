@@ -1,0 +1,3 @@
+﻿  makingPalindrome.c
+C:\Users\user\Desktop\문해기복습\Week7\makingPalindrome\makingPalindrome.c(24,16): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  makingPalindrome.vcxproj -> C:\Users\user\Desktop\문해기복습\Week7\Debug\makingPalindrome.exe

@@ -1,0 +1,4 @@
+﻿  백준9461.c
+  백준9461.vcxproj -> C:\Users\user\Desktop\문해기복습\Week4\Debug\백준9461.exe
+C:\Users\user\Desktop\문해기복습\Week4\백준9461\백준9461.c(24): warning C6031: 반환 값이 무시되었습니다. 'scanf'.
+C:\Users\user\Desktop\문해기복습\Week4\백준9461\백준9461.c(26): warning C6031: 반환 값이 무시되었습니다. 'scanf'.

@@ -1,0 +1,7 @@
+﻿  19중간1_2.c
+C:\Users\user\Desktop\문해기복습\Week5\19중간1_2\19중간1_2.c(16,16): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\user\Desktop\문해기복습\Week5\19중간1_2\19중간1_2.c(27,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\문해기복습\Week5\19중간1_2\19중간1_2.c(38,9): warning C4101: 'rem' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\문해기복습\Week5\19중간1_2\19중간1_2.c(38,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\문해기복습\Week5\19중간1_2\19중간1_2.c(48,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  19중간1_2.vcxproj -> C:\Users\user\Desktop\문해기복습\Week5\Debug\19중간1_2.exe

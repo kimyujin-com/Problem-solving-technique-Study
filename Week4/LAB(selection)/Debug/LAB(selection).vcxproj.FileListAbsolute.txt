@@ -1,0 +1,2 @@
+C:\Users\user\Desktop\문해기복습\Week4\Debug\LAB(selection).exe.lastcodeanalysissucceeded
+C:\Users\user\Desktop\문해기복습\Week4\LAB(selection)\Debug\NativeCodeAnalysis.read.1.tlog

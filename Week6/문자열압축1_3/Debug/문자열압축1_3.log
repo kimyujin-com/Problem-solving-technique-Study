@@ -1,0 +1,3 @@
+﻿  문자열압축1_3.c
+C:\Users\user\Desktop\문해기복습\Week6\문자열압축1_3\문자열압축1_3.c(14,16): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+  문자열압축1_3.vcxproj -> C:\Users\user\Desktop\문해기복습\Week6\Debug\문자열압축1_3.exe

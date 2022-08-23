@@ -1,0 +1,3 @@
+﻿  21중간3.c
+C:\Users\user\Desktop\문해기복습\Week5\21중간3\21중간3.c(13,7): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  21중간3.vcxproj -> C:\Users\user\Desktop\문해기복습\Week5\Debug\21중간3.exe

@@ -1,0 +1,5 @@
+﻿  HW(bubble_개선).c
+  HW(bubble_개선).vcxproj -> C:\Users\user\Desktop\문해기복습\Week4\Debug\HW(bubble_개선).exe
+C:\Users\user\Desktop\문해기복습\Week4\HW(bubble_개선)\HW(bubble_개선).c(37): warning C6031: 반환 값이 무시되었습니다. 'scanf'.
+C:\Users\user\Desktop\문해기복습\Week4\HW(bubble_개선)\HW(bubble_개선).c(42): warning C6031: 반환 값이 무시되었습니다. 'scanf'.
+C:\Users\user\Desktop\문해기복습\Week4\HW(bubble_개선)\HW(bubble_개선).c(42): warning C6011: NULL 포인터 'box'을(를) 역참조하고 있습니다. 
