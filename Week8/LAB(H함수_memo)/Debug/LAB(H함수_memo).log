@@ -1,0 +1,4 @@
+﻿  LAB(H함수_memo).c
+C:\Users\user\Desktop\문해기복습\Week8\LAB(H함수_memo)\LAB(H함수_memo).c(14,19): warning C4244: '=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\문해기복습\Week8\LAB(H함수_memo)\LAB(H함수_memo).c(16,35): warning C4244: '=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  LAB(H함수_memo).vcxproj -> C:\Users\user\Desktop\문해기복습\Week8\Debug\LAB(H함수_memo).exe
